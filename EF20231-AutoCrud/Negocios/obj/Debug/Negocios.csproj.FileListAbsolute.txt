@@ -1,0 +1,160 @@
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Negocios.dll.config
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Negocios.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Negocios.pdb
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Azure.Core.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Azure.Identity.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Datos.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Identity.Client.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Buffers.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Memory.Data.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Memory.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Numerics.Vectors.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.AccessControl.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Permissions.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Principal.Windows.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Text.Encodings.Web.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Text.Json.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.ValueTuple.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\EntityFramework.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Datos.pdb
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Datos.dll.config
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Azure.Core.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Azure.Identity.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Identity.Client.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Buffers.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Memory.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Memory.Data.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Numerics.Vectors.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.AccessControl.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Permissions.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Principal.Windows.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Text.Encodings.Web.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Text.Json.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.ValueTuple.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\EntityFramework.xml
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\obj\Debug\Negocios.dll
+D:\Jk\Repositorios\5to-Crud-C#\1-CrudAuto\EF20231-AutoCrud\Negocios\obj\Debug\Negocios.pdb
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Negocios.dll.config
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Negocios.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Negocios.pdb
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Azure.Core.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Azure.Identity.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Datos.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Identity.Client.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Buffers.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Memory.Data.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Memory.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Numerics.Vectors.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.AccessControl.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Permissions.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Principal.Windows.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Text.Encodings.Web.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Text.Json.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.ValueTuple.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\EntityFramework.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Datos.pdb
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Datos.dll.config
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Azure.Core.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Azure.Identity.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Identity.Client.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Buffers.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Memory.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Memory.Data.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Numerics.Vectors.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.AccessControl.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Permissions.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Security.Principal.Windows.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Text.Encodings.Web.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Text.Json.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\System.ValueTuple.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\EntityFramework.xml
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\obj\Debug\Negocios.dll
+D:\Escritorio\CICLOS\5TO CICLO\CURSOS\5_FUNDAMENTOS DE SISTM\1.EF-CRUD\1-CrudAuto\EF20231-AutoCrud\Negocios\obj\Debug\Negocios.pdb

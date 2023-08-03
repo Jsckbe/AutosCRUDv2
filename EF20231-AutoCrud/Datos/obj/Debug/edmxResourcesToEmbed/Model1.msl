@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbtallerModelStoreContainer" CdmEntityContainer="dbtallerEntities">
+    <EntitySetMapping Name="Autos">
+      <EntityTypeMapping TypeName="dbtallerModel.Auto">
+        <MappingFragment StoreEntitySet="Auto">
+          <ScalarProperty Name="placa" ColumnName="placa" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="modelo" ColumnName="modelo" />
+          <ScalarProperty Name="color" ColumnName="color" />
+          <ScalarProperty Name="año" ColumnName="año" />
+          <ScalarProperty Name="combustible" ColumnName="combustible" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
